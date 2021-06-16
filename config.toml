@@ -1,4 +1,4 @@
-baseURL = "https://ublogger.netlify.app/"
+baseURL = "https://blog.benjaminzhong.com/"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
@@ -22,7 +22,7 @@ enableGitInfo = true
 # whether to use emoji code
 # 是否使用 emoji 代码
 enableEmoji = true
-
+   
 [languages]
   [languages.en]
     weight = 1
