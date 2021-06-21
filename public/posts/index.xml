@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Ben 总胡说 | 点滴记录</title>
+        <link>https://blog.benjaminzhong.com/posts/</link>
+        <description>All Posts | Ben 总胡说 | 点滴记录</description>
+        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 18 Jun 2021 13:57:44 &#43;0800</lastBuildDate><atom:link href="https://blog.benjaminzhong.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>First_post</title>
+    <link>https://blog.benjaminzhong.com/posts/first_post/</link>
+    <pubDate>Fri, 18 Jun 2021 13:57:44 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://blog.benjaminzhong.com/posts/first_post/</guid>
+    <description><![CDATA[Test for me]]></description>
+</item></channel>
+</rss>
